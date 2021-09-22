@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta "utf-8"></meta>
+<title>Сайт web-студії "Web-DECO"</title>
+</head>
+
+<body background="images/bg.jpg">
+<table border="1" align="center cellpadding="10">
+<tr> 
+  <td colspan="2" height="150" align="right">Сайт web-студії "Web_DECO"</td>
+ </tr>
+ <tr>
+  <td colspan="2">Gorozintal menu</td>
+ </tr>
+ <tr>
+  <td width="30%" valign="top">Menu left</td>
+  <td width="70%"> TEXT</td>
+ </tr>
+ <tr>
+  <td colspan="2" valign="middle" height="90>Bottom</td>
+ </tr>
+ </table>
+</body>
+</html>
