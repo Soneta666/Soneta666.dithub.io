@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<meta charset="utf-8"></meta>
+		<title>Сайт web-студії "Web-DECO</title>
+	</head>
+	<body background="images/bg.jpg">
+		<table border="1" align="center" cellpadding="10">
+			<tr>
+				<td colspan ="2" height="150" align="right">
+					<font size="5">
+						<h1>Сайт web-студії "Web-DECO</h1>
+					</font>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<font size ="4">
+						<b>
+							<a href="#">Головна</a>
+							<a href="#">Фотогалерея</a>
+							<a href="#">Телефони</a>
+							<a href="#">Статистики</a>
+							<a href="#">Зареєстровані</a>
+						</b>
+					</font>
+				</td>
+			</tr>
+			<tr>
+				<td width="30%" valign="top">
+					<font size="5" color="navy">
+						<h2>Новини</h2>
+						<font size="5">
+							<ul>
+								<li>
+									<a href="#">Сайт будівельної компанії</a>
+								</li>
+								<li>
+									<a href="#">Сайт ТМ "Новашкола"</a>
+								</li>
+								<li>
+									<a href="#">Редизайн сайту classno.com.ua</a>
+								</li>
+								<li>
+									<a href="#">Роззробка CMS для Metro Cash and Carry </a>
+								</li>
+								<li>
+									<a href="#">Сайт-візитка дизайнера інтерфейсів</a>
+								</li>
+								<p align="right">
+									<a href="#">інші...</a>
+								</p>
+							</ul>
+						</font>
+					</font>
+				</td>
+				<td width="70%">Site's text</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="middle" height="90">Site's bottom</td>
+				<td colspan="2" valign="middle" height="90">
+					<font size="4">
+						Сайт розробила Масовець Вероніка
+					</font>
+				</td>
+			</tr>
+		</table>
+
+	</body>
+</html>
